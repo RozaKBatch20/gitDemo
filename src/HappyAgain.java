@@ -6,6 +6,8 @@ public class HappyAgain {
 
         System.out.println("Life Is Beautiful");
 
+        System.out.println("Lets check the color");
+
 
 
     }
