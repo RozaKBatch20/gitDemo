@@ -4,6 +4,8 @@ public class HappyAgain {
 
         // I wrote some code
 
+        System.out.println("Life Is Beautiful");
+
 
 
     }
